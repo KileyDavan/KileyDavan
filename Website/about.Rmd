@@ -1,0 +1,15 @@
+---
+title: "Kiley Davan"
+image: "tobi.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+---
+ 
+I am a doctoral student in the Conservation Science program at the University of Minnesota working with Dr. David Fulton. Currently, I am investigating people's attitudes and risk perceptions related to the use of genetic biocontrol methods to control invasive species, using the zebra mussel and common carp as case species. In general, my research interests are the social and cultural aspects of conservation. 
+I love talking about my pets and plants, 
+bats, and .

@@ -1,18 +1,42 @@
 ---
-title: "KileyDavan"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Kiley Davan"
+image: "Kiley Davan Square.jpg"
+links:
+  - label: ORCiD
+    url: "https://orcid.org/0000-0003-1852-7962"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Kiley-Davan"
+  - label: Email
+    url: "mailto:davan015@umn.edu"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+## Bio
+Broadly, my research interests lie in the social and cultural aspects of conservation, particularly the cognitions (e.g. attitudes, beliefs, values, etc.) and theories (e.g., cognitive hierarchy) underlying human-wildlife relations. My interest stems from my curiosity to understand why people have certain attitudes and beliefs towards conservation and how we can foster more favorable attitudes, beliefs and behaviors. I hope that by sharing my passion for conservation and animals, I will instill it in others as well.  
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+In my free time, I enjoy caring for my houseplants, hanging out with my dog and cat, crocheting, and listening to true crime podcasts. I am also obsessed with bats and it is my personal mission to get others to love them too. Check out this video I made about bats: 
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I2dQROPiAIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```
+<br />
+
+## Education
+
+**University of Minnesota | Current** 
+
+PhD Conservation Sciences
+
+**University of Tennessee | 2021** 
+
+M.S. Wildlife and Fisheries Science 
+
+**University of Maine | 2019** 
+
+B.S. Wildlife Ecology with a concentration in Conservation Biology
+
+
+<!-- I am currently a PhD student in the Conservation Sciences program at the University of Minnesota working with Dr. David Fulton to explore the public's perceptions of using genetic biocontrol to control aquatic invasive species. I received my Master's in 2021 from the University of Tennessee Knoxville under Dr. Neelam Pouydal researching the expectations, satisfaction, motivations, and constraints of small game hunters and trappers. I obtained a B.S. in Wildlife Ecology in 2019 from the University of Maine and, with the guidance of Dr. Carly Sponarski, explored whether different methods of communication (video vs. text) impact undergraduate student's knowledge, attitudes, and beliefs towards white-nose syndrome (WNS) in little brown bats (*Myotis lucifugus*). Check out the Research tab to learn more about these projects. -->
+
 
